@@ -26,4 +26,12 @@
 - touch
 - dc
 - tar
-
+- grep
+- ls
+- clear
+- sh
+- help
+- exit
+- open
+- package
+- edit
