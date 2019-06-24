@@ -1,8 +1,29 @@
 # ios_terminal
 # 支持指令
-- ios 终端
+- ifconfig
 - ping
+- chmod
 - telnet
-- pwd
-- 
+- host
+- du
+- link
+- date
+- gzip
+- nslookup
+- python2
+- fgrep
+- mv
+- md5
+- say
+- luac
+- ssh-keygen
+- xargs
+- diff
+- cd
+- tee
+- chksum
+- lua
+- touch
+- dc
+- tar
 
